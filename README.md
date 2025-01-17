@@ -52,6 +52,6 @@ This project utilizes the **Npcap SDK** to analyze raw packet data captured from
 
 ## Project Setup
 
-To set up the project environment, refer to the [SETUP.md](Network-programming/NpcapSamples/SETTING.md) file.
+To set up the project environment, refer to the [SETUP.md](NpcapSamples/SETTING.md) file.
 
 Make sure to follow the steps in `SETUP.md` to ensure the project runs smoothly.
